@@ -57,7 +57,7 @@
 	<br>
 	<br>
 	<br>
-	<img class="rounded-corner" src="img2/reflection6.jpg" align="center" width="700" height="400" alt="">
+	<img class="rounded-corner" src="img2/reflection6.JPG" align="center" width="700" height="400" alt="">
 	<br>
 
 	<!-- Masthead Heading -->
