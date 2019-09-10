@@ -1,4 +1,4 @@
-<?php header( 'Location: /reflection5.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
 <html>
 <head>
 
